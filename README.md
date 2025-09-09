@@ -7,9 +7,10 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: Junior Data Analyst actively learning and growing.<br/>
-  #### :fire: Aspiring to become a professional Data Analyst.<br/>
-  #### :mortar_board: Bachelor of Industrial Engineering, Soongsil University
+  #### :raising_hand: A Data Analyst and AI Engineer passionate about turning raw data into actionable insights. I'm currently focused on honing my skills in machine learning and data-driven problem-solving.<br/>
+  #### :🎓 **Education**: B.S. in Industrial Engineering, Soongsil University
+  #### :🌱 **Currently Learning**: Machine Learning Modeling & Data Pipelines
+  #### :🚀 **Goal**: To grow into a professional who creates business value with data.
 
   <br/>
   <br/>
